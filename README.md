@@ -14,3 +14,9 @@ String Templates
 
 
 <img width="1912" height="1074" alt="image" src="https://github.com/user-attachments/assets/047d400f-0ff6-4a5f-b40b-0cedef5695f5" />
+
+
+Tipe Data Dasar
+
+
+<img width="1916" height="1071" alt="image" src="https://github.com/user-attachments/assets/bd1ed345-01a3-4309-a985-d917670f34e1" />
