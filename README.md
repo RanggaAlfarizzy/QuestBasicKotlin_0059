@@ -88,3 +88,27 @@ while
 
 
 
+Functions
+
+
+
+<img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/9c7595c6-1879-40e5-881f-36bc00c50828" />
+
+
+
+Named Arguments
+
+
+
+
+<img width="1916" height="1077" alt="image" src="https://github.com/user-attachments/assets/34f7929a-c037-4bb7-b77d-08d036c5b304" />
+
+
+
+
+Default Parameter Values
+
+
+
+
+<img width="1916" height="1070" alt="image" src="https://github.com/user-attachments/assets/856f1eb6-fe6b-4c1f-b86c-ebe223291aa8" />
