@@ -112,3 +112,58 @@ Default Parameter Values
 
 
 <img width="1916" height="1070" alt="image" src="https://github.com/user-attachments/assets/856f1eb6-fe6b-4c1f-b86c-ebe223291aa8" />
+
+
+
+
+Functions Without Return
+
+
+
+
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/12ec6978-2ac1-4715-9caf-e824ae44324c" />
+
+
+
+
+Lambda Expressions
+
+
+
+<img width="1916" height="1062" alt="image" src="https://github.com/user-attachments/assets/c4f270fe-20f5-4b11-8b6d-45054da92e23" />
+
+
+
+
+Class Properties & Create Instance
+
+
+
+<img width="1906" height="1031" alt="image" src="https://github.com/user-attachments/assets/84f2f185-c04b-4301-826a-18155e81a5b9" />
+
+
+
+
+Access Properties
+
+
+
+
+<img width="1912" height="1078" alt="image" src="https://github.com/user-attachments/assets/b374577d-ad9c-42c7-9d7a-061a75b2d5c1" />
+
+
+
+
+Member Functions
+
+
+
+
+
+
+
+<img width="1908" height="1076" alt="image" src="https://github.com/user-attachments/assets/10347f5b-294c-4dec-950e-c2700ca05905" />
+
+
+
+
