@@ -167,3 +167,95 @@ Member Functions
 
 
 
+
+Data Classes: Print as String
+
+
+
+
+<img width="1916" height="1070" alt="image" src="https://github.com/user-attachments/assets/d04f0eac-1be5-475f-80c4-5010413e6dc7" />
+
+
+
+
+
+Data Classes: Compare Instances
+
+
+
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/df4cdac7-fe5a-416e-bfcb-ada50cdacc65" />
+
+
+
+
+
+Data Classes: Copy Instance
+
+
+
+
+
+
+
+
+<img width="1912" height="1048" alt="image" src="https://github.com/user-attachments/assets/8f6f355b-2954-444f-a0cb-ebd169f4e5a7" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nullable Types
+
+
+
+
+
+<img width="1918" height="1080" alt="image" src="https://github.com/user-attachments/assets/26d499d1-08b5-4204-bc06-8f0d7cb51f7a" />
+
+
+
+
+
+
+Check for Null Values
+
+
+
+
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b564610b-bace-405f-8b7a-55087be77343" />
+
+
+
+
+
+Safe Calls
+
+
+
+
+<img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/e55a01c6-a844-498d-b7e7-19ab76d55ea9" />
+
+
+
+
+
+
+Elvis Operator
+
+
+
+
+
+
+<img width="1915" height="1080" alt="image" src="https://github.com/user-attachments/assets/294b88e7-e640-4aeb-9732-54e3face03d0" />
