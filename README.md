@@ -9,3 +9,8 @@ Variables
 
 <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f3c2cc6-260d-4912-8797-c4e1426b7922" />
 
+
+String Templates
+
+
+<img width="1912" height="1074" alt="image" src="https://github.com/user-attachments/assets/047d400f-0ff6-4a5f-b40b-0cedef5695f5" />
