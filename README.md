@@ -20,3 +20,9 @@ Tipe Data Dasar
 
 
 <img width="1916" height="1071" alt="image" src="https://github.com/user-attachments/assets/bd1ed345-01a3-4309-a985-d917670f34e1" />
+
+
+List
+
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/da5e04aa-af45-4c3d-a4a2-6c647fc5dd06" />
