@@ -57,3 +57,34 @@ when
 
 <img width="1919" height="1059" alt="image" src="https://github.com/user-attachments/assets/1d359cc1-8cc4-4bb4-90b3-afc65ffd5cae" />
 
+
+
+Ranges
+
+
+
+<img width="1918" height="1066" alt="image" src="https://github.com/user-attachments/assets/22e098c9-1bce-495b-9dc6-338ab56014a6" />
+
+
+
+
+
+For
+
+
+
+<img width="1909" height="1080" alt="image" src="https://github.com/user-attachments/assets/00a95282-f818-4909-af89-98e0cb01b785" />
+
+
+
+
+while
+
+
+
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/21f624c7-6e67-460d-a7eb-e357855edbb9" />
+
+
+
+
